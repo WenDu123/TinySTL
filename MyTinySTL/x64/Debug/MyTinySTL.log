@@ -1,0 +1,4 @@
+﻿  MyTinySTL.cpp
+D:\study\３.11\MyTinySTL\MyTinySTL\Vector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\study\３.11\MyTinySTL\MyTinySTL\Unordered_map.h(175,7): error C2995: “bool MyTinySTL::operator ==(const MyTinySTL::unordered_map<Key,T,HashFcn,EqualKey,Alloc> &,const MyTinySTL::unordered_map<Key,T,HashFcn,EqualKey,Alloc> &)”: 函数模板已经定义
+D:\study\３.11\MyTinySTL\MyTinySTL\Unordered_map.h(88): message : 参见“MyTinySTL::operator ==”的声明

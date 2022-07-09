@@ -1,0 +1,1472 @@
+_
+<?xml version="1.0" encoding="utf-8"?>
+MyTinySTL.vcxproj  1  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  1  Error 129: declaration expected, identifier 'xml' ignored
+MyTinySTL.vcxproj  1  Error 129: declaration expected, identifier 'version'
+    ignored
+MyTinySTL.vcxproj  1  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  1  Error 129: declaration expected, identifier 'encoding'
+    ignored
+MyTinySTL.vcxproj  1  Error 10: Expecting identifier or other declarator
+         _
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+MyTinySTL.vcxproj  2  Error 129: declaration expected, identifier 'Project'
+    ignored
+MyTinySTL.vcxproj  2  Error 129: declaration expected, identifier
+    'DefaultTargets' ignored
+MyTinySTL.vcxproj  2  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  2  Error 129: declaration expected, identifier 'xmlns'
+    ignored
+MyTinySTL.vcxproj  2  Error 10: Expecting identifier or other declarator
+             _
+  <ItemGroup Label="ProjectConfigurations">
+MyTinySTL.vcxproj  3  Error 129: declaration expected, identifier 'ItemGroup'
+    ignored
+MyTinySTL.vcxproj  3  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  3  Error 10: Expecting identifier or other declarator
+                          _
+    <ProjectConfiguration Include="Debug|Win32">
+MyTinySTL.vcxproj  4  Error 129: declaration expected, identifier
+    'ProjectConfiguration' ignored
+MyTinySTL.vcxproj  4  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  4  Error 10: Expecting identifier or other declarator
+                    _
+      <Configuration>Debug</Configuration>
+MyTinySTL.vcxproj  5  Error 129: declaration expected, identifier
+    'Configuration' ignored
+MyTinySTL.vcxproj  5  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  5  Error 40: Undeclared identifier 'Debug'
+MyTinySTL.vcxproj  5  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  5  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  5  Error 129: declaration expected, identifier
+    'Configuration' ignored
+MyTinySTL.vcxproj  5  Error 10: Expecting identifier or other declarator
+               _
+      <Platform>Win32</Platform>
+MyTinySTL.vcxproj  6  Error 129: declaration expected, identifier 'Platform'
+    ignored
+MyTinySTL.vcxproj  6  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  6  Error 40: Undeclared identifier 'Win32'
+MyTinySTL.vcxproj  6  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  6  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  6  Error 129: declaration expected, identifier 'Platform'
+    ignored
+MyTinySTL.vcxproj  6  Error 10: Expecting identifier or other declarator
+                          _
+    </ProjectConfiguration>
+MyTinySTL.vcxproj  7  Error 129: declaration expected, identifier
+    'ProjectConfiguration' ignored
+MyTinySTL.vcxproj  7  Error 10: Expecting identifier or other declarator
+                          _
+    <ProjectConfiguration Include="Release|Win32">
+MyTinySTL.vcxproj  8  Error 129: declaration expected, identifier
+    'ProjectConfiguration' ignored
+MyTinySTL.vcxproj  8  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  8  Error 10: Expecting identifier or other declarator
+                    _
+      <Configuration>Release</Configuration>
+MyTinySTL.vcxproj  9  Error 129: declaration expected, identifier
+    'Configuration' ignored
+MyTinySTL.vcxproj  9  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  9  Error 40: Undeclared identifier 'Release'
+MyTinySTL.vcxproj  9  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  9  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  9  Error 129: declaration expected, identifier
+    'Configuration' ignored
+MyTinySTL.vcxproj  9  Error 10: Expecting identifier or other declarator
+               _
+      <Platform>Win32</Platform>
+MyTinySTL.vcxproj  10  Error 129: declaration expected, identifier 'Platform'
+    ignored
+MyTinySTL.vcxproj  10  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  10  Error 40: Undeclared identifier 'Win32'
+MyTinySTL.vcxproj  10  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  10  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  10  Error 129: declaration expected, identifier 'Platform'
+    ignored
+MyTinySTL.vcxproj  10  Error 10: Expecting identifier or other declarator
+                          _
+    </ProjectConfiguration>
+MyTinySTL.vcxproj  11  Error 129: declaration expected, identifier
+    'ProjectConfiguration' ignored
+MyTinySTL.vcxproj  11  Error 10: Expecting identifier or other declarator
+                          _
+    <ProjectConfiguration Include="Debug|x64">
+MyTinySTL.vcxproj  12  Error 129: declaration expected, identifier
+    'ProjectConfiguration' ignored
+MyTinySTL.vcxproj  12  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  12  Error 10: Expecting identifier or other declarator
+                    _
+      <Configuration>Debug</Configuration>
+MyTinySTL.vcxproj  13  Error 129: declaration expected, identifier
+    'Configuration' ignored
+MyTinySTL.vcxproj  13  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  13  Error 40: Undeclared identifier 'Debug'
+MyTinySTL.vcxproj  13  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  13  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  13  Error 129: declaration expected, identifier
+    'Configuration' ignored
+MyTinySTL.vcxproj  13  Error 10: Expecting identifier or other declarator
+               _
+      <Platform>x64</Platform>
+MyTinySTL.vcxproj  14  Error 129: declaration expected, identifier 'Platform'
+    ignored
+MyTinySTL.vcxproj  14  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  14  Error 40: Undeclared identifier 'x64'
+MyTinySTL.vcxproj  14  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  14  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  14  Error 129: declaration expected, identifier 'Platform'
+    ignored
+MyTinySTL.vcxproj  14  Error 10: Expecting identifier or other declarator
+                          _
+    </ProjectConfiguration>
+MyTinySTL.vcxproj  15  Error 129: declaration expected, identifier
+    'ProjectConfiguration' ignored
+MyTinySTL.vcxproj  15  Error 10: Expecting identifier or other declarator
+                          _
+    <ProjectConfiguration Include="Release|x64">
+MyTinySTL.vcxproj  16  Error 129: declaration expected, identifier
+    'ProjectConfiguration' ignored
+MyTinySTL.vcxproj  16  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  16  Error 10: Expecting identifier or other declarator
+                    _
+      <Configuration>Release</Configuration>
+MyTinySTL.vcxproj  17  Error 129: declaration expected, identifier
+    'Configuration' ignored
+MyTinySTL.vcxproj  17  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  17  Error 40: Undeclared identifier 'Release'
+MyTinySTL.vcxproj  17  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  17  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  17  Error 129: declaration expected, identifier
+    'Configuration' ignored
+MyTinySTL.vcxproj  17  Error 10: Expecting identifier or other declarator
+               _
+      <Platform>x64</Platform>
+MyTinySTL.vcxproj  18  Error 129: declaration expected, identifier 'Platform'
+    ignored
+MyTinySTL.vcxproj  18  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  18  Error 40: Undeclared identifier 'x64'
+MyTinySTL.vcxproj  18  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  18  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  18  Error 129: declaration expected, identifier 'Platform'
+    ignored
+MyTinySTL.vcxproj  18  Error 10: Expecting identifier or other declarator
+                          _
+    </ProjectConfiguration>
+MyTinySTL.vcxproj  19  Error 129: declaration expected, identifier
+    'ProjectConfiguration' ignored
+MyTinySTL.vcxproj  19  Error 10: Expecting identifier or other declarator
+             _
+  </ItemGroup>
+MyTinySTL.vcxproj  20  Error 129: declaration expected, identifier 'ItemGroup'
+    ignored
+MyTinySTL.vcxproj  20  Error 10: Expecting identifier or other declarator
+                 _
+  <PropertyGroup Label="Globals">
+MyTinySTL.vcxproj  21  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  21  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  21  Error 10: Expecting identifier or other declarator
+                     _
+    <VCProjectVersion>16.0</VCProjectVersion>
+MyTinySTL.vcxproj  22  Error 129: declaration expected, identifier
+    'VCProjectVersion' ignored
+MyTinySTL.vcxproj  22  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  22  Error 129: declaration expected, identifier
+    'VCProjectVersion' ignored
+MyTinySTL.vcxproj  22  Error 10: Expecting identifier or other declarator
+            _
+    <Keyword>Win32Proj</Keyword>
+MyTinySTL.vcxproj  23  Error 129: declaration expected, identifier 'Keyword'
+    ignored
+MyTinySTL.vcxproj  23  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  23  Error 40: Undeclared identifier 'Win32Proj'
+MyTinySTL.vcxproj  23  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  23  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  23  Error 129: declaration expected, identifier 'Keyword'
+    ignored
+MyTinySTL.vcxproj  23  Error 10: Expecting identifier or other declarator
+                _
+    <ProjectGuid>{563634c2-12c3-4ec5-b32e-b08cf58759e2}</ProjectGuid>
+MyTinySTL.vcxproj  24  Error 129: declaration expected, identifier
+    'ProjectGuid' ignored
+MyTinySTL.vcxproj  24  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  24  Error 129: declaration expected, identifier
+    'ProjectGuid' ignored
+MyTinySTL.vcxproj  24  Error 10: Expecting identifier or other declarator
+                  _
+    <RootNamespace>MyTinySTL</RootNamespace>
+MyTinySTL.vcxproj  25  Error 129: declaration expected, identifier
+    'RootNamespace' ignored
+MyTinySTL.vcxproj  25  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  25  Error 40: Undeclared identifier 'MyTinySTL'
+MyTinySTL.vcxproj  25  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  25  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  25  Error 129: declaration expected, identifier
+    'RootNamespace' ignored
+MyTinySTL.vcxproj  25  Error 10: Expecting identifier or other declarator
+                                 _
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+MyTinySTL.vcxproj  26  Error 129: declaration expected, identifier
+    'WindowsTargetPlatformVersion' ignored
+MyTinySTL.vcxproj  26  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  26  Error 129: declaration expected, identifier
+    'WindowsTargetPlatformVersion' ignored
+MyTinySTL.vcxproj  26  Error 10: Expecting identifier or other declarator
+                 _
+  </PropertyGroup>
+MyTinySTL.vcxproj  27  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  27  Error 10: Expecting identifier or other declarator
+          _
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+MyTinySTL.vcxproj  28  Error 129: declaration expected, identifier 'Import'
+    ignored
+MyTinySTL.vcxproj  28  Error 129: declaration expected, identifier 'Project'
+    ignored
+MyTinySTL.vcxproj  28  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  28  Warning 606: Non-ANSI escape sequence: '\M'
+                 _
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+MyTinySTL.vcxproj  29  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  29  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  29  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  29  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  29  Error 10: Expecting identifier or other declarator
+                      _
+    <ConfigurationType>Application</ConfigurationType>
+MyTinySTL.vcxproj  30  Error 129: declaration expected, identifier
+    'ConfigurationType' ignored
+MyTinySTL.vcxproj  30  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  30  Error 40: Undeclared identifier 'Application'
+MyTinySTL.vcxproj  30  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  30  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  30  Error 129: declaration expected, identifier
+    'ConfigurationType' ignored
+MyTinySTL.vcxproj  30  Error 10: Expecting identifier or other declarator
+                      _
+    <UseDebugLibraries>true</UseDebugLibraries>
+MyTinySTL.vcxproj  31  Error 129: declaration expected, identifier
+    'UseDebugLibraries' ignored
+MyTinySTL.vcxproj  31  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  31  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  31  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  31  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  31  Error 129: declaration expected, identifier
+    'UseDebugLibraries' ignored
+MyTinySTL.vcxproj  31  Error 10: Expecting identifier or other declarator
+                    _
+    <PlatformToolset>v143</PlatformToolset>
+MyTinySTL.vcxproj  32  Error 129: declaration expected, identifier
+    'PlatformToolset' ignored
+MyTinySTL.vcxproj  32  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  32  Error 40: Undeclared identifier 'v143'
+MyTinySTL.vcxproj  32  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  32  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  32  Error 129: declaration expected, identifier
+    'PlatformToolset' ignored
+MyTinySTL.vcxproj  32  Error 10: Expecting identifier or other declarator
+                 _
+    <CharacterSet>Unicode</CharacterSet>
+MyTinySTL.vcxproj  33  Error 129: declaration expected, identifier
+    'CharacterSet' ignored
+MyTinySTL.vcxproj  33  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  33  Error 40: Undeclared identifier 'Unicode'
+MyTinySTL.vcxproj  33  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  33  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  33  Error 129: declaration expected, identifier
+    'CharacterSet' ignored
+MyTinySTL.vcxproj  33  Error 10: Expecting identifier or other declarator
+                 _
+  </PropertyGroup>
+MyTinySTL.vcxproj  34  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  34  Error 10: Expecting identifier or other declarator
+                 _
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+MyTinySTL.vcxproj  35  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  35  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  35  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  35  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  35  Error 10: Expecting identifier or other declarator
+                      _
+    <ConfigurationType>Application</ConfigurationType>
+MyTinySTL.vcxproj  36  Error 129: declaration expected, identifier
+    'ConfigurationType' ignored
+MyTinySTL.vcxproj  36  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  36  Error 40: Undeclared identifier 'Application'
+MyTinySTL.vcxproj  36  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  36  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  36  Error 129: declaration expected, identifier
+    'ConfigurationType' ignored
+MyTinySTL.vcxproj  36  Error 10: Expecting identifier or other declarator
+                      _
+    <UseDebugLibraries>false</UseDebugLibraries>
+MyTinySTL.vcxproj  37  Error 129: declaration expected, identifier
+    'UseDebugLibraries' ignored
+MyTinySTL.vcxproj  37  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  37  Error 40: Undeclared identifier 'false'
+MyTinySTL.vcxproj  37  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  37  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  37  Error 129: declaration expected, identifier
+    'UseDebugLibraries' ignored
+MyTinySTL.vcxproj  37  Error 10: Expecting identifier or other declarator
+                    _
+    <PlatformToolset>v143</PlatformToolset>
+MyTinySTL.vcxproj  38  Error 129: declaration expected, identifier
+    'PlatformToolset' ignored
+MyTinySTL.vcxproj  38  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  38  Error 40: Undeclared identifier 'v143'
+MyTinySTL.vcxproj  38  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  38  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  38  Error 129: declaration expected, identifier
+    'PlatformToolset' ignored
+MyTinySTL.vcxproj  38  Error 10: Expecting identifier or other declarator
+                             _
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+MyTinySTL.vcxproj  39  Error 129: declaration expected, identifier
+    'WholeProgramOptimization' ignored
+MyTinySTL.vcxproj  39  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  39  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  39  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  39  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  39  Error 129: declaration expected, identifier
+    'WholeProgramOptimization' ignored
+MyTinySTL.vcxproj  39  Error 10: Expecting identifier or other declarator
+                 _
+    <CharacterSet>Unicode</CharacterSet>
+MyTinySTL.vcxproj  40  Error 129: declaration expected, identifier
+    'CharacterSet' ignored
+MyTinySTL.vcxproj  40  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  40  Error 40: Undeclared identifier 'Unicode'
+MyTinySTL.vcxproj  40  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  40  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  40  Error 129: declaration expected, identifier
+    'CharacterSet' ignored
+MyTinySTL.vcxproj  40  Error 10: Expecting identifier or other declarator
+                 _
+  </PropertyGroup>
+MyTinySTL.vcxproj  41  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  41  Error 10: Expecting identifier or other declarator
+                 _
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+MyTinySTL.vcxproj  42  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  42  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  42  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  42  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  42  Error 10: Expecting identifier or other declarator
+                      _
+    <ConfigurationType>Application</ConfigurationType>
+MyTinySTL.vcxproj  43  Error 129: declaration expected, identifier
+    'ConfigurationType' ignored
+MyTinySTL.vcxproj  43  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  43  Error 40: Undeclared identifier 'Application'
+MyTinySTL.vcxproj  43  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  43  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  43  Error 129: declaration expected, identifier
+    'ConfigurationType' ignored
+MyTinySTL.vcxproj  43  Error 10: Expecting identifier or other declarator
+                      _
+    <UseDebugLibraries>true</UseDebugLibraries>
+MyTinySTL.vcxproj  44  Error 129: declaration expected, identifier
+    'UseDebugLibraries' ignored
+MyTinySTL.vcxproj  44  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  44  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  44  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  44  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  44  Error 129: declaration expected, identifier
+    'UseDebugLibraries' ignored
+MyTinySTL.vcxproj  44  Error 10: Expecting identifier or other declarator
+                    _
+    <PlatformToolset>v143</PlatformToolset>
+MyTinySTL.vcxproj  45  Error 129: declaration expected, identifier
+    'PlatformToolset' ignored
+MyTinySTL.vcxproj  45  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  45  Error 40: Undeclared identifier 'v143'
+MyTinySTL.vcxproj  45  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  45  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  45  Error 129: declaration expected, identifier
+    'PlatformToolset' ignored
+MyTinySTL.vcxproj  45  Error 10: Expecting identifier or other declarator
+                 _
+    <CharacterSet>Unicode</CharacterSet>
+MyTinySTL.vcxproj  46  Error 129: declaration expected, identifier
+    'CharacterSet' ignored
+MyTinySTL.vcxproj  46  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  46  Error 40: Undeclared identifier 'Unicode'
+MyTinySTL.vcxproj  46  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  46  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  46  Error 129: declaration expected, identifier
+    'CharacterSet' ignored
+MyTinySTL.vcxproj  46  Error 10: Expecting identifier or other declarator
+                 _
+  </PropertyGroup>
+MyTinySTL.vcxproj  47  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  47  Error 10: Expecting identifier or other declarator
+                 _
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+MyTinySTL.vcxproj  48  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  48  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  48  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  48  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  48  Error 10: Expecting identifier or other declarator
+                      _
+    <ConfigurationType>Application</ConfigurationType>
+MyTinySTL.vcxproj  49  Error 129: declaration expected, identifier
+    'ConfigurationType' ignored
+MyTinySTL.vcxproj  49  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  49  Error 40: Undeclared identifier 'Application'
+MyTinySTL.vcxproj  49  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  49  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  49  Error 129: declaration expected, identifier
+    'ConfigurationType' ignored
+MyTinySTL.vcxproj  49  Error 10: Expecting identifier or other declarator
+                      _
+    <UseDebugLibraries>false</UseDebugLibraries>
+MyTinySTL.vcxproj  50  Error 129: declaration expected, identifier
+    'UseDebugLibraries' ignored
+MyTinySTL.vcxproj  50  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  50  Error 40: Undeclared identifier 'false'
+MyTinySTL.vcxproj  50  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  50  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  50  Error 129: declaration expected, identifier
+    'UseDebugLibraries' ignored
+MyTinySTL.vcxproj  50  Error 10: Expecting identifier or other declarator
+                    _
+    <PlatformToolset>v143</PlatformToolset>
+MyTinySTL.vcxproj  51  Error 129: declaration expected, identifier
+    'PlatformToolset' ignored
+MyTinySTL.vcxproj  51  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  51  Error 40: Undeclared identifier 'v143'
+MyTinySTL.vcxproj  51  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  51  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  51  Error 129: declaration expected, identifier
+    'PlatformToolset' ignored
+MyTinySTL.vcxproj  51  Error 10: Expecting identifier or other declarator
+                             _
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+MyTinySTL.vcxproj  52  Error 129: declaration expected, identifier
+    'WholeProgramOptimization' ignored
+MyTinySTL.vcxproj  52  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  52  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  52  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  52  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  52  Error 129: declaration expected, identifier
+    'WholeProgramOptimization' ignored
+MyTinySTL.vcxproj  52  Error 10: Expecting identifier or other declarator
+                 _
+    <CharacterSet>Unicode</CharacterSet>
+MyTinySTL.vcxproj  53  Error 129: declaration expected, identifier
+    'CharacterSet' ignored
+MyTinySTL.vcxproj  53  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  53  Error 40: Undeclared identifier 'Unicode'
+MyTinySTL.vcxproj  53  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  53  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  53  Error 129: declaration expected, identifier
+    'CharacterSet' ignored
+MyTinySTL.vcxproj  53  Error 10: Expecting identifier or other declarator
+                 _
+  </PropertyGroup>
+MyTinySTL.vcxproj  54  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  54  Error 10: Expecting identifier or other declarator
+          _
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+MyTinySTL.vcxproj  55  Error 129: declaration expected, identifier 'Import'
+    ignored
+MyTinySTL.vcxproj  55  Error 129: declaration expected, identifier 'Project'
+    ignored
+MyTinySTL.vcxproj  55  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  55  Warning 606: Non-ANSI escape sequence: '\M'
+               _
+  <ImportGroup Label="ExtensionSettings">
+MyTinySTL.vcxproj  56  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  56  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  56  Error 10: Expecting identifier or other declarator
+               _
+  </ImportGroup>
+MyTinySTL.vcxproj  57  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  57  Error 10: Expecting identifier or other declarator
+               _
+  <ImportGroup Label="Shared">
+MyTinySTL.vcxproj  58  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  58  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  58  Error 10: Expecting identifier or other declarator
+               _
+  </ImportGroup>
+MyTinySTL.vcxproj  59  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  59  Error 10: Expecting identifier or other declarator
+               _
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+MyTinySTL.vcxproj  60  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  60  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  60  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  60  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  60  Error 10: Expecting identifier or other declarator
+            _
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+MyTinySTL.vcxproj  61  Error 129: declaration expected, identifier 'Import'
+    ignored
+MyTinySTL.vcxproj  61  Error 129: declaration expected, identifier 'Project'
+    ignored
+MyTinySTL.vcxproj  61  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  61  Warning 606: Non-ANSI escape sequence: '\M'
+MyTinySTL.vcxproj  61  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  61  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  61  Warning 606: Non-ANSI escape sequence: '\M'
+MyTinySTL.vcxproj  61  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  61  Error 10: Expecting identifier or other declarator
+               _
+  </ImportGroup>
+MyTinySTL.vcxproj  62  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  62  Error 10: Expecting identifier or other declarator
+               _
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+MyTinySTL.vcxproj  63  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  63  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  63  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  63  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  63  Error 10: Expecting identifier or other declarator
+            _
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+MyTinySTL.vcxproj  64  Error 129: declaration expected, identifier 'Import'
+    ignored
+MyTinySTL.vcxproj  64  Error 129: declaration expected, identifier 'Project'
+    ignored
+MyTinySTL.vcxproj  64  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  64  Warning 606: Non-ANSI escape sequence: '\M'
+MyTinySTL.vcxproj  64  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  64  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  64  Warning 606: Non-ANSI escape sequence: '\M'
+MyTinySTL.vcxproj  64  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  64  Error 10: Expecting identifier or other declarator
+               _
+  </ImportGroup>
+MyTinySTL.vcxproj  65  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  65  Error 10: Expecting identifier or other declarator
+               _
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+MyTinySTL.vcxproj  66  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  66  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  66  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  66  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  66  Error 10: Expecting identifier or other declarator
+            _
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+MyTinySTL.vcxproj  67  Error 129: declaration expected, identifier 'Import'
+    ignored
+MyTinySTL.vcxproj  67  Error 129: declaration expected, identifier 'Project'
+    ignored
+MyTinySTL.vcxproj  67  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  67  Warning 606: Non-ANSI escape sequence: '\M'
+MyTinySTL.vcxproj  67  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  67  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  67  Warning 606: Non-ANSI escape sequence: '\M'
+MyTinySTL.vcxproj  67  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  67  Error 10: Expecting identifier or other declarator
+               _
+  </ImportGroup>
+MyTinySTL.vcxproj  68  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  68  Error 10: Expecting identifier or other declarator
+               _
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+MyTinySTL.vcxproj  69  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  69  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  69  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  69  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  69  Error 10: Expecting identifier or other declarator
+            _
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+MyTinySTL.vcxproj  70  Error 129: declaration expected, identifier 'Import'
+    ignored
+MyTinySTL.vcxproj  70  Error 129: declaration expected, identifier 'Project'
+    ignored
+MyTinySTL.vcxproj  70  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  70  Warning 606: Non-ANSI escape sequence: '\M'
+MyTinySTL.vcxproj  70  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  70  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  70  Warning 606: Non-ANSI escape sequence: '\M'
+MyTinySTL.vcxproj  70  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  70  Error 10: Expecting identifier or other declarator
+               _
+  </ImportGroup>
+MyTinySTL.vcxproj  71  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  71  Error 10: Expecting identifier or other declarator
+                 _
+  <PropertyGroup Label="UserMacros" />
+MyTinySTL.vcxproj  72  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  72  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  72  Error 10: Expecting identifier or other declarator
+                 _
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+MyTinySTL.vcxproj  73  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  73  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  73  Error 10: Expecting identifier or other declarator
+                    _
+    <LinkIncremental>true</LinkIncremental>
+MyTinySTL.vcxproj  74  Error 129: declaration expected, identifier
+    'LinkIncremental' ignored
+MyTinySTL.vcxproj  74  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  74  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  74  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  74  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  74  Error 129: declaration expected, identifier
+    'LinkIncremental' ignored
+MyTinySTL.vcxproj  74  Error 10: Expecting identifier or other declarator
+                 _
+  </PropertyGroup>
+MyTinySTL.vcxproj  75  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  75  Error 10: Expecting identifier or other declarator
+                 _
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+MyTinySTL.vcxproj  76  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  76  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  76  Error 10: Expecting identifier or other declarator
+                    _
+    <LinkIncremental>false</LinkIncremental>
+MyTinySTL.vcxproj  77  Error 129: declaration expected, identifier
+    'LinkIncremental' ignored
+MyTinySTL.vcxproj  77  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  77  Error 40: Undeclared identifier 'false'
+MyTinySTL.vcxproj  77  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  77  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  77  Error 129: declaration expected, identifier
+    'LinkIncremental' ignored
+MyTinySTL.vcxproj  77  Error 10: Expecting identifier or other declarator
+                 _
+  </PropertyGroup>
+MyTinySTL.vcxproj  78  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  78  Error 10: Expecting identifier or other declarator
+                 _
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+MyTinySTL.vcxproj  79  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  79  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  79  Error 10: Expecting identifier or other declarator
+                    _
+    <LinkIncremental>true</LinkIncremental>
+MyTinySTL.vcxproj  80  Error 129: declaration expected, identifier
+    'LinkIncremental' ignored
+MyTinySTL.vcxproj  80  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  80  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  80  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  80  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  80  Error 129: declaration expected, identifier
+    'LinkIncremental' ignored
+MyTinySTL.vcxproj  80  Error 10: Expecting identifier or other declarator
+                 _
+  </PropertyGroup>
+MyTinySTL.vcxproj  81  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  81  Error 10: Expecting identifier or other declarator
+                 _
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+MyTinySTL.vcxproj  82  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  82  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  82  Error 10: Expecting identifier or other declarator
+                    _
+    <LinkIncremental>false</LinkIncremental>
+MyTinySTL.vcxproj  83  Error 129: declaration expected, identifier
+    'LinkIncremental' ignored
+MyTinySTL.vcxproj  83  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  83  Error 40: Undeclared identifier 'false'
+MyTinySTL.vcxproj  83  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  83  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  83  Error 129: declaration expected, identifier
+    'LinkIncremental' ignored
+MyTinySTL.vcxproj  83  Error 10: Expecting identifier or other declarator
+                 _
+  </PropertyGroup>
+MyTinySTL.vcxproj  84  Error 129: declaration expected, identifier
+    'PropertyGroup' ignored
+MyTinySTL.vcxproj  84  Error 10: Expecting identifier or other declarator
+                       _
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+MyTinySTL.vcxproj  85  Error 129: declaration expected, identifier
+    'ItemDefinitionGroup' ignored
+MyTinySTL.vcxproj  85  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  85  Error 10: Expecting identifier or other declarator
+              _
+    <ClCompile>
+MyTinySTL.vcxproj  86  Error 129: declaration expected, identifier 'ClCompile'
+    ignored
+MyTinySTL.vcxproj  86  Error 10: Expecting identifier or other declarator
+                   _
+      <WarningLevel>Level3</WarningLevel>
+MyTinySTL.vcxproj  87  Error 129: declaration expected, identifier
+    'WarningLevel' ignored
+MyTinySTL.vcxproj  87  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  87  Error 40: Undeclared identifier 'Level3'
+MyTinySTL.vcxproj  87  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  87  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  87  Error 129: declaration expected, identifier
+    'WarningLevel' ignored
+MyTinySTL.vcxproj  87  Error 10: Expecting identifier or other declarator
+               _
+      <SDLCheck>true</SDLCheck>
+MyTinySTL.vcxproj  88  Error 129: declaration expected, identifier 'SDLCheck'
+    ignored
+MyTinySTL.vcxproj  88  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  88  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  88  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  88  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  88  Error 129: declaration expected, identifier 'SDLCheck'
+    ignored
+MyTinySTL.vcxproj  88  Error 10: Expecting identifier or other declarator
+                              _
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+MyTinySTL.vcxproj  89  Error 129: declaration expected, identifier
+    'PreprocessorDefinitions' ignored
+MyTinySTL.vcxproj  89  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  89  Error 129: declaration expected, identifier 'WIN32'
+    ignored
+MyTinySTL.vcxproj  89  Error 19: Useless Declaration
+MyTinySTL.vcxproj  89  Error 129: declaration expected, identifier '_DEBUG'
+    ignored
+MyTinySTL.vcxproj  89  Error 19: Useless Declaration
+MyTinySTL.vcxproj  89  Error 129: declaration expected, identifier '_CONSOLE'
+    ignored
+MyTinySTL.vcxproj  89  Error 19: Useless Declaration
+MyTinySTL.vcxproj  89  Error 129: declaration expected, identifier
+    'PreprocessorDefinitions' ignored
+MyTinySTL.vcxproj  89  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  89  Error 129: declaration expected, identifier
+    'PreprocessorDefinitions' ignored
+MyTinySTL.vcxproj  89  Error 10: Expecting identifier or other declarator
+                      _
+      <ConformanceMode>true</ConformanceMode>
+MyTinySTL.vcxproj  90  Error 129: declaration expected, identifier
+    'ConformanceMode' ignored
+MyTinySTL.vcxproj  90  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  90  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  90  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  90  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  90  Error 129: declaration expected, identifier
+    'ConformanceMode' ignored
+MyTinySTL.vcxproj  90  Error 10: Expecting identifier or other declarator
+               _
+    </ClCompile>
+MyTinySTL.vcxproj  91  Error 129: declaration expected, identifier 'ClCompile'
+    ignored
+MyTinySTL.vcxproj  91  Error 10: Expecting identifier or other declarator
+         _
+    <Link>
+MyTinySTL.vcxproj  92  Error 129: declaration expected, identifier 'Link'
+    ignored
+MyTinySTL.vcxproj  92  Error 10: Expecting identifier or other declarator
+                _
+      <SubSystem>Console</SubSystem>
+MyTinySTL.vcxproj  93  Error 129: declaration expected, identifier 'SubSystem'
+    ignored
+MyTinySTL.vcxproj  93  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  93  Error 40: Undeclared identifier 'Console'
+MyTinySTL.vcxproj  93  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  93  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  93  Error 129: declaration expected, identifier 'SubSystem'
+    ignored
+MyTinySTL.vcxproj  93  Error 10: Expecting identifier or other declarator
+                               _
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+MyTinySTL.vcxproj  94  Error 129: declaration expected, identifier
+    'GenerateDebugInformation' ignored
+MyTinySTL.vcxproj  94  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  94  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  94  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  94  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  94  Error 129: declaration expected, identifier
+    'GenerateDebugInformation' ignored
+MyTinySTL.vcxproj  94  Error 10: Expecting identifier or other declarator
+          _
+    </Link>
+MyTinySTL.vcxproj  95  Error 129: declaration expected, identifier 'Link'
+    ignored
+MyTinySTL.vcxproj  95  Error 10: Expecting identifier or other declarator
+                       _
+  </ItemDefinitionGroup>
+MyTinySTL.vcxproj  96  Error 129: declaration expected, identifier
+    'ItemDefinitionGroup' ignored
+MyTinySTL.vcxproj  96  Error 10: Expecting identifier or other declarator
+                       _
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+MyTinySTL.vcxproj  97  Error 129: declaration expected, identifier
+    'ItemDefinitionGroup' ignored
+MyTinySTL.vcxproj  97  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  97  Error 10: Expecting identifier or other declarator
+              _
+    <ClCompile>
+MyTinySTL.vcxproj  98  Error 129: declaration expected, identifier 'ClCompile'
+    ignored
+MyTinySTL.vcxproj  98  Error 10: Expecting identifier or other declarator
+                   _
+      <WarningLevel>Level3</WarningLevel>
+MyTinySTL.vcxproj  99  Error 129: declaration expected, identifier
+    'WarningLevel' ignored
+MyTinySTL.vcxproj  99  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  99  Error 40: Undeclared identifier 'Level3'
+MyTinySTL.vcxproj  99  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  99  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  99  Error 129: declaration expected, identifier
+    'WarningLevel' ignored
+MyTinySTL.vcxproj  99  Error 10: Expecting identifier or other declarator
+                           _
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+MyTinySTL.vcxproj  100  Error 129: declaration expected, identifier
+    'FunctionLevelLinking' ignored
+MyTinySTL.vcxproj  100  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  100  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  100  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  100  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  100  Error 129: declaration expected, identifier
+    'FunctionLevelLinking' ignored
+MyTinySTL.vcxproj  100  Error 10: Expecting identifier or other declarator
+                         _
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+MyTinySTL.vcxproj  101  Error 129: declaration expected, identifier
+    'IntrinsicFunctions' ignored
+MyTinySTL.vcxproj  101  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  101  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  101  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  101  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  101  Error 129: declaration expected, identifier
+    'IntrinsicFunctions' ignored
+MyTinySTL.vcxproj  101  Error 10: Expecting identifier or other declarator
+               _
+      <SDLCheck>true</SDLCheck>
+MyTinySTL.vcxproj  102  Error 129: declaration expected, identifier 'SDLCheck'
+    ignored
+MyTinySTL.vcxproj  102  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  102  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  102  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  102  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  102  Error 129: declaration expected, identifier 'SDLCheck'
+    ignored
+MyTinySTL.vcxproj  102  Error 10: Expecting identifier or other declarator
+                              _
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+MyTinySTL.vcxproj  103  Error 129: declaration expected, identifier
+    'PreprocessorDefinitions' ignored
+MyTinySTL.vcxproj  103  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  103  Error 129: declaration expected, identifier 'WIN32'
+    ignored
+MyTinySTL.vcxproj  103  Error 19: Useless Declaration
+MyTinySTL.vcxproj  103  Error 129: declaration expected, identifier 'NDEBUG'
+    ignored
+MyTinySTL.vcxproj  103  Error 19: Useless Declaration
+MyTinySTL.vcxproj  103  Error 129: declaration expected, identifier '_CONSOLE'
+    ignored
+MyTinySTL.vcxproj  103  Error 19: Useless Declaration
+MyTinySTL.vcxproj  103  Error 129: declaration expected, identifier
+    'PreprocessorDefinitions' ignored
+MyTinySTL.vcxproj  103  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  103  Error 129: declaration expected, identifier
+    'PreprocessorDefinitions' ignored
+MyTinySTL.vcxproj  103  Error 10: Expecting identifier or other declarator
+                      _
+      <ConformanceMode>true</ConformanceMode>
+MyTinySTL.vcxproj  104  Error 129: declaration expected, identifier
+    'ConformanceMode' ignored
+MyTinySTL.vcxproj  104  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  104  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  104  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  104  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  104  Error 129: declaration expected, identifier
+    'ConformanceMode' ignored
+MyTinySTL.vcxproj  104  Error 10: Expecting identifier or other declarator
+               _
+    </ClCompile>
+MyTinySTL.vcxproj  105  Error 129: declaration expected, identifier 'ClCompile'
+    ignored
+MyTinySTL.vcxproj  105  Error 10: Expecting identifier or other declarator
+         _
+    <Link>
+MyTinySTL.vcxproj  106  Error 129: declaration expected, identifier 'Link'
+    ignored
+MyTinySTL.vcxproj  106  Error 10: Expecting identifier or other declarator
+                _
+      <SubSystem>Console</SubSystem>
+MyTinySTL.vcxproj  107  Error 129: declaration expected, identifier 'SubSystem'
+    ignored
+MyTinySTL.vcxproj  107  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  107  Error 40: Undeclared identifier 'Console'
+MyTinySTL.vcxproj  107  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  107  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  107  Error 129: declaration expected, identifier 'SubSystem'
+    ignored
+MyTinySTL.vcxproj  107  Error 10: Expecting identifier or other declarator
+                          _
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+MyTinySTL.vcxproj  108  Error 129: declaration expected, identifier
+    'EnableCOMDATFolding' ignored
+MyTinySTL.vcxproj  108  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  108  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  108  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  108  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  108  Error 129: declaration expected, identifier
+    'EnableCOMDATFolding' ignored
+MyTinySTL.vcxproj  108  Error 10: Expecting identifier or other declarator
+                         _
+      <OptimizeReferences>true</OptimizeReferences>
+MyTinySTL.vcxproj  109  Error 129: declaration expected, identifier
+    'OptimizeReferences' ignored
+MyTinySTL.vcxproj  109  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  109  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  109  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  109  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  109  Error 129: declaration expected, identifier
+    'OptimizeReferences' ignored
+MyTinySTL.vcxproj  109  Error 10: Expecting identifier or other declarator
+                               _
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+MyTinySTL.vcxproj  110  Error 129: declaration expected, identifier
+    'GenerateDebugInformation' ignored
+MyTinySTL.vcxproj  110  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  110  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  110  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  110  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  110  Error 129: declaration expected, identifier
+    'GenerateDebugInformation' ignored
+MyTinySTL.vcxproj  110  Error 10: Expecting identifier or other declarator
+          _
+    </Link>
+MyTinySTL.vcxproj  111  Error 129: declaration expected, identifier 'Link'
+    ignored
+MyTinySTL.vcxproj  111  Error 10: Expecting identifier or other declarator
+                       _
+  </ItemDefinitionGroup>
+MyTinySTL.vcxproj  112  Error 129: declaration expected, identifier
+    'ItemDefinitionGroup' ignored
+MyTinySTL.vcxproj  112  Error 10: Expecting identifier or other declarator
+                       _
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+MyTinySTL.vcxproj  113  Error 129: declaration expected, identifier
+    'ItemDefinitionGroup' ignored
+MyTinySTL.vcxproj  113  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  113  Error 10: Expecting identifier or other declarator
+              _
+    <ClCompile>
+MyTinySTL.vcxproj  114  Error 129: declaration expected, identifier 'ClCompile'
+    ignored
+MyTinySTL.vcxproj  114  Error 10: Expecting identifier or other declarator
+                   _
+      <WarningLevel>Level3</WarningLevel>
+MyTinySTL.vcxproj  115  Error 129: declaration expected, identifier
+    'WarningLevel' ignored
+MyTinySTL.vcxproj  115  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  115  Error 40: Undeclared identifier 'Level3'
+MyTinySTL.vcxproj  115  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  115  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  115  Error 129: declaration expected, identifier
+    'WarningLevel' ignored
+MyTinySTL.vcxproj  115  Error 10: Expecting identifier or other declarator
+               _
+      <SDLCheck>true</SDLCheck>
+MyTinySTL.vcxproj  116  Error 129: declaration expected, identifier 'SDLCheck'
+    ignored
+MyTinySTL.vcxproj  116  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  116  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  116  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  116  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  116  Error 129: declaration expected, identifier 'SDLCheck'
+    ignored
+MyTinySTL.vcxproj  116  Error 10: Expecting identifier or other declarator
+                              _
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+MyTinySTL.vcxproj  117  Error 129: declaration expected, identifier
+    'PreprocessorDefinitions' ignored
+MyTinySTL.vcxproj  117  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  117  Error 129: declaration expected, identifier '_DEBUG'
+    ignored
+MyTinySTL.vcxproj  117  Error 19: Useless Declaration
+MyTinySTL.vcxproj  117  Error 129: declaration expected, identifier '_CONSOLE'
+    ignored
+MyTinySTL.vcxproj  117  Error 19: Useless Declaration
+MyTinySTL.vcxproj  117  Error 129: declaration expected, identifier
+    'PreprocessorDefinitions' ignored
+MyTinySTL.vcxproj  117  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  117  Error 129: declaration expected, identifier
+    'PreprocessorDefinitions' ignored
+MyTinySTL.vcxproj  117  Error 10: Expecting identifier or other declarator
+                      _
+      <ConformanceMode>true</ConformanceMode>
+MyTinySTL.vcxproj  118  Error 129: declaration expected, identifier
+    'ConformanceMode' ignored
+MyTinySTL.vcxproj  118  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  118  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  118  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  118  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  118  Error 129: declaration expected, identifier
+    'ConformanceMode' ignored
+MyTinySTL.vcxproj  118  Error 10: Expecting identifier or other declarator
+               _
+    </ClCompile>
+MyTinySTL.vcxproj  119  Error 129: declaration expected, identifier 'ClCompile'
+    ignored
+MyTinySTL.vcxproj  119  Error 10: Expecting identifier or other declarator
+         _
+    <Link>
+MyTinySTL.vcxproj  120  Error 129: declaration expected, identifier 'Link'
+    ignored
+MyTinySTL.vcxproj  120  Error 10: Expecting identifier or other declarator
+                _
+      <SubSystem>Console</SubSystem>
+MyTinySTL.vcxproj  121  Error 129: declaration expected, identifier 'SubSystem'
+    ignored
+MyTinySTL.vcxproj  121  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  121  Error 40: Undeclared identifier 'Console'
+MyTinySTL.vcxproj  121  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  121  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  121  Error 129: declaration expected, identifier 'SubSystem'
+    ignored
+MyTinySTL.vcxproj  121  Error 10: Expecting identifier or other declarator
+                               _
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+MyTinySTL.vcxproj  122  Error 129: declaration expected, identifier
+    'GenerateDebugInformation' ignored
+MyTinySTL.vcxproj  122  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  122  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  122  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  122  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  122  Error 129: declaration expected, identifier
+    'GenerateDebugInformation' ignored
+MyTinySTL.vcxproj  122  Error 10: Expecting identifier or other declarator
+          _
+    </Link>
+MyTinySTL.vcxproj  123  Error 129: declaration expected, identifier 'Link'
+    ignored
+MyTinySTL.vcxproj  123  Error 10: Expecting identifier or other declarator
+                       _
+  </ItemDefinitionGroup>
+MyTinySTL.vcxproj  124  Error 129: declaration expected, identifier
+    'ItemDefinitionGroup' ignored
+MyTinySTL.vcxproj  124  Error 10: Expecting identifier or other declarator
+                       _
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+MyTinySTL.vcxproj  125  Error 129: declaration expected, identifier
+    'ItemDefinitionGroup' ignored
+MyTinySTL.vcxproj  125  Error 129: declaration expected, identifier 'Condition'
+    ignored
+MyTinySTL.vcxproj  125  Error 10: Expecting identifier or other declarator
+              _
+    <ClCompile>
+MyTinySTL.vcxproj  126  Error 129: declaration expected, identifier 'ClCompile'
+    ignored
+MyTinySTL.vcxproj  126  Error 10: Expecting identifier or other declarator
+                   _
+      <WarningLevel>Level3</WarningLevel>
+MyTinySTL.vcxproj  127  Error 129: declaration expected, identifier
+    'WarningLevel' ignored
+MyTinySTL.vcxproj  127  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  127  Error 40: Undeclared identifier 'Level3'
+MyTinySTL.vcxproj  127  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  127  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  127  Error 129: declaration expected, identifier
+    'WarningLevel' ignored
+MyTinySTL.vcxproj  127  Error 10: Expecting identifier or other declarator
+                           _
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+MyTinySTL.vcxproj  128  Error 129: declaration expected, identifier
+    'FunctionLevelLinking' ignored
+MyTinySTL.vcxproj  128  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  128  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  128  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  128  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  128  Error 129: declaration expected, identifier
+    'FunctionLevelLinking' ignored
+MyTinySTL.vcxproj  128  Error 10: Expecting identifier or other declarator
+                         _
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+MyTinySTL.vcxproj  129  Error 129: declaration expected, identifier
+    'IntrinsicFunctions' ignored
+MyTinySTL.vcxproj  129  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  129  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  129  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  129  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  129  Error 129: declaration expected, identifier
+    'IntrinsicFunctions' ignored
+MyTinySTL.vcxproj  129  Error 10: Expecting identifier or other declarator
+               _
+      <SDLCheck>true</SDLCheck>
+MyTinySTL.vcxproj  130  Error 129: declaration expected, identifier 'SDLCheck'
+    ignored
+MyTinySTL.vcxproj  130  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  130  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  130  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  130  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  130  Error 129: declaration expected, identifier 'SDLCheck'
+    ignored
+MyTinySTL.vcxproj  130  Error 10: Expecting identifier or other declarator
+                              _
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+MyTinySTL.vcxproj  131  Error 129: declaration expected, identifier
+    'PreprocessorDefinitions' ignored
+MyTinySTL.vcxproj  131  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  131  Error 129: declaration expected, identifier 'NDEBUG'
+    ignored
+MyTinySTL.vcxproj  131  Error 19: Useless Declaration
+MyTinySTL.vcxproj  131  Error 129: declaration expected, identifier '_CONSOLE'
+    ignored
+MyTinySTL.vcxproj  131  Error 19: Useless Declaration
+MyTinySTL.vcxproj  131  Error 129: declaration expected, identifier
+    'PreprocessorDefinitions' ignored
+MyTinySTL.vcxproj  131  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  131  Error 129: declaration expected, identifier
+    'PreprocessorDefinitions' ignored
+MyTinySTL.vcxproj  131  Error 10: Expecting identifier or other declarator
+                      _
+      <ConformanceMode>true</ConformanceMode>
+MyTinySTL.vcxproj  132  Error 129: declaration expected, identifier
+    'ConformanceMode' ignored
+MyTinySTL.vcxproj  132  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  132  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  132  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  132  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  132  Error 129: declaration expected, identifier
+    'ConformanceMode' ignored
+MyTinySTL.vcxproj  132  Error 10: Expecting identifier or other declarator
+               _
+    </ClCompile>
+MyTinySTL.vcxproj  133  Error 129: declaration expected, identifier 'ClCompile'
+    ignored
+MyTinySTL.vcxproj  133  Error 10: Expecting identifier or other declarator
+         _
+    <Link>
+MyTinySTL.vcxproj  134  Error 129: declaration expected, identifier 'Link'
+    ignored
+MyTinySTL.vcxproj  134  Error 10: Expecting identifier or other declarator
+                _
+      <SubSystem>Console</SubSystem>
+MyTinySTL.vcxproj  135  Error 129: declaration expected, identifier 'SubSystem'
+    ignored
+MyTinySTL.vcxproj  135  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  135  Error 40: Undeclared identifier 'Console'
+MyTinySTL.vcxproj  135  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  135  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  135  Error 129: declaration expected, identifier 'SubSystem'
+    ignored
+MyTinySTL.vcxproj  135  Error 10: Expecting identifier or other declarator
+                          _
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+MyTinySTL.vcxproj  136  Error 129: declaration expected, identifier
+    'EnableCOMDATFolding' ignored
+MyTinySTL.vcxproj  136  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  136  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  136  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  136  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  136  Error 129: declaration expected, identifier
+    'EnableCOMDATFolding' ignored
+MyTinySTL.vcxproj  136  Error 10: Expecting identifier or other declarator
+                         _
+      <OptimizeReferences>true</OptimizeReferences>
+MyTinySTL.vcxproj  137  Error 129: declaration expected, identifier
+    'OptimizeReferences' ignored
+MyTinySTL.vcxproj  137  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  137  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  137  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  137  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  137  Error 129: declaration expected, identifier
+    'OptimizeReferences' ignored
+MyTinySTL.vcxproj  137  Error 10: Expecting identifier or other declarator
+                               _
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+MyTinySTL.vcxproj  138  Error 129: declaration expected, identifier
+    'GenerateDebugInformation' ignored
+MyTinySTL.vcxproj  138  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  138  Error 40: Undeclared identifier 'true'
+MyTinySTL.vcxproj  138  Error 129: declaration expected, identifier '__created'
+    ignored
+MyTinySTL.vcxproj  138  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  138  Error 129: declaration expected, identifier
+    'GenerateDebugInformation' ignored
+MyTinySTL.vcxproj  138  Error 10: Expecting identifier or other declarator
+          _
+    </Link>
+MyTinySTL.vcxproj  139  Error 129: declaration expected, identifier 'Link'
+    ignored
+MyTinySTL.vcxproj  139  Error 10: Expecting identifier or other declarator
+                       _
+  </ItemDefinitionGroup>
+MyTinySTL.vcxproj  140  Error 129: declaration expected, identifier
+    'ItemDefinitionGroup' ignored
+MyTinySTL.vcxproj  140  Error 10: Expecting identifier or other declarator
+            _
+  <ItemGroup>
+MyTinySTL.vcxproj  141  Error 129: declaration expected, identifier 'ItemGroup'
+    ignored
+MyTinySTL.vcxproj  141  Error 10: Expecting identifier or other declarator
+               _
+    <ClCompile Include="Alloc.cpp" />
+MyTinySTL.vcxproj  142  Error 129: declaration expected, identifier 'ClCompile'
+    ignored
+MyTinySTL.vcxproj  142  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  142  Error 10: Expecting identifier or other declarator
+               _
+    <ClCompile Include="MyTinySTL.cpp" />
+MyTinySTL.vcxproj  143  Error 129: declaration expected, identifier 'ClCompile'
+    ignored
+MyTinySTL.vcxproj  143  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  143  Error 10: Expecting identifier or other declarator
+               _
+    <ClCompile Include="Vector.cpp" />
+MyTinySTL.vcxproj  144  Error 129: declaration expected, identifier 'ClCompile'
+    ignored
+MyTinySTL.vcxproj  144  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  144  Error 10: Expecting identifier or other declarator
+             _
+  </ItemGroup>
+MyTinySTL.vcxproj  145  Error 129: declaration expected, identifier 'ItemGroup'
+    ignored
+MyTinySTL.vcxproj  145  Error 10: Expecting identifier or other declarator
+            _
+  <ItemGroup>
+MyTinySTL.vcxproj  146  Error 129: declaration expected, identifier 'ItemGroup'
+    ignored
+MyTinySTL.vcxproj  146  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="algobase.h" />
+MyTinySTL.vcxproj  147  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  147  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  147  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="Algorithm.h" />
+MyTinySTL.vcxproj  148  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  148  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  148  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="Alloc.h" />
+MyTinySTL.vcxproj  149  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  149  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  149  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="Allocator.h" />
+MyTinySTL.vcxproj  150  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  150  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  150  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="Construct.h" />
+MyTinySTL.vcxproj  151  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  151  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  151  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="Deque.h" />
+MyTinySTL.vcxproj  152  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  152  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  152  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="List.h" />
+MyTinySTL.vcxproj  153  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  153  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  153  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="Memory.h" />
+MyTinySTL.vcxproj  154  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  154  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  154  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="Traits.h" />
+MyTinySTL.vcxproj  155  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  155  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  155  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="TypeTraits.h" />
+MyTinySTL.vcxproj  156  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  156  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  156  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="Uninitialized.h" />
+MyTinySTL.vcxproj  157  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  157  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  157  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="Vector.h" />
+MyTinySTL.vcxproj  158  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  158  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  158  Error 10: Expecting identifier or other declarator
+               _
+    <ClInclude Include="Iterator.h" />
+MyTinySTL.vcxproj  159  Error 129: declaration expected, identifier 'ClInclude'
+    ignored
+MyTinySTL.vcxproj  159  Error 129: declaration expected, identifier 'Include'
+    ignored
+MyTinySTL.vcxproj  159  Error 10: Expecting identifier or other declarator
+             _
+  </ItemGroup>
+MyTinySTL.vcxproj  160  Error 129: declaration expected, identifier 'ItemGroup'
+    ignored
+MyTinySTL.vcxproj  160  Error 10: Expecting identifier or other declarator
+          _
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+MyTinySTL.vcxproj  161  Error 129: declaration expected, identifier 'Import'
+    ignored
+MyTinySTL.vcxproj  161  Error 129: declaration expected, identifier 'Project'
+    ignored
+MyTinySTL.vcxproj  161  Error 10: Expecting identifier or other declarator
+MyTinySTL.vcxproj  161  Warning 606: Non-ANSI escape sequence: '\M'
+               _
+  <ImportGroup Label="ExtensionTargets">
+MyTinySTL.vcxproj  162  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  162  Error 129: declaration expected, identifier 'Label'
+    ignored
+MyTinySTL.vcxproj  162  Error 10: Expecting identifier or other declarator
+               _
+  </ImportGroup>
+MyTinySTL.vcxproj  163  Error 129: declaration expected, identifier
+    'ImportGroup' ignored
+MyTinySTL.vcxproj  163  Error 10: Expecting identifier or other declarator
+               _
+</Project>
+
+MyTinySTL.vcxproj  164  Info 783: Line does not end with new-line
+MyTinySTL.vcxproj  164  Error 129: declaration expected, identifier 'Project'
+    ignored
+MyTinySTL.vcxproj  164  Error 10: Expecting identifier or other declarator
